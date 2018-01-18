@@ -7,23 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/StefanieDing/friend-finder.git"
-  },
-  "author": "Stefanie Ding",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/StefanieDing/friend-finder/issues"
-  },
-  "homepage": "https://github.com/StefanieDing/friend-finder#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "mysql": "^2.11.1",
-    "path": "^0.12.7"
+    "express": "^4.16.2"
   },
-  "engines": {
-    "node": "6.11.1"
-  }
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ailek/friendfinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ailek/friendfinder/issues"
+  },
+  "homepage": "https://github.com/Ailek/friendfinder#readme"
 }
